@@ -361,4 +361,23 @@ opacity: 0.5;
     margin-bottom: 20px;
     font-size: 45px;
     text-align: center;
-    }    
+    }   
+    
+  /*********footer*******/
+  .site-footer {
+    background-image: linear-gradient(#b4b2be, white);
+    padding: 20px 0; }  
+
+  .row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px; }
+  .carousel {
+    border: solid #960d74; }
+      
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); }
+  .carousel-item {
+    height: 700px;
+
+  }    
