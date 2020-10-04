@@ -350,3 +350,15 @@ opacity: 0.5;
   i.fa {
     font-family: fontawesome !important;
   }
+  /************Gallery*******/
+  #galllery .gallery-text {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    
+  }
+  .gallery-text h2{
+    margin-bottom: 20px;
+    font-size: 45px;
+    text-align: center;
+    }    
