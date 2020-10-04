@@ -130,3 +130,8 @@ padding-bottom: 100px;
   width: 100%;
   margin: 0 auto;
 }
+.menu-text h1{
+  margin-bottom: 20px;
+  font-size: 45px;
+  text-align: center;
+}
