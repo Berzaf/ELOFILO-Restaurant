@@ -207,3 +207,18 @@ opacity: 0.5;
 .foodlist-card:hover .img-footer {
   opacity: 1;
 }
+.food-btn {
+  background: rgb(12, 12, 12);
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px 32px;
+  color: whitesmoke;
+  border-radius: 200px;
+  font-size:20px;
+  font-weight: bold;
+  margin: 16px;
+  transition: all 0.4s ease-in-out;
+  cursor: pointer;
+  outline: none
+
+}
