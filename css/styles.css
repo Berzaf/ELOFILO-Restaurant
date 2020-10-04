@@ -392,3 +392,7 @@ opacity: 0.5;
     right: 0;
     bottom: 0;
     z-index: 100; }  
+
+  #reserveModal .modal-header {
+    background-color: rgb(0, 140, 255);
+    color: white; }
