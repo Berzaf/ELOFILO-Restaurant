@@ -381,3 +381,14 @@ opacity: 0.5;
     height: 700px;
 
   }    
+  .carousel-caption h3{
+    font-family: "Lobster", cursive;} 
+  .tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px; }
+  #carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100; }  
