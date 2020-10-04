@@ -237,3 +237,17 @@ opacity: 0.5;
 #drink-list {
   padding: 25px;
 }
+
+.drinklist-card {
+  background: linear-gradient(rgba(47, 187, 59, 0.7),rgba(81, 194, 166, 0.7));
+  position: relative;
+  margin: 25px 0;
+  border-radius: 20px;
+  color: black;
+  overflow: hidden;
+  padding: 5px;
+  border: 2px solid rgb(23, 210, 216);
+  box-shadow: 3px 4px 2px 2px rgb(20, 129, 156);
+  height: 700px;
+  
+  }
