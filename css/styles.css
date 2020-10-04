@@ -251,3 +251,14 @@ opacity: 0.5;
   height: 700px;
   
   }
+  #drink-list {
+    text-align: center;
+    font-size: 30px;
+    }
+  #drink-list img {
+  width: 100%;
+  display: block;
+  min-height: 100%;
+  transition: transform 7s;
+  }
+    
