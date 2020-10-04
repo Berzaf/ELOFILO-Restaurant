@@ -333,3 +333,16 @@ opacity: 0.5;
     padding-bottom: 40px;  
     padding-top: 40px;
   }      
+  /*************Contact*************/
+
+  #contact .contact-text {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+
+  }
+  .contact-text h2{
+    margin-bottom: 20px;
+    font-size: 45px;
+    text-align: center;
+  }
