@@ -232,3 +232,8 @@ opacity: 0.5;
 .fas {
   font-size: 40px;
 }
+
+/*-----drink List-------*/
+#drink-list {
+  padding: 25px;
+}
