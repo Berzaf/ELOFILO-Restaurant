@@ -324,4 +324,12 @@ opacity: 0.5;
     .fas {
     font-size: 40px;
     }
-      
+  /*************Map*************/
+  #map { height: 800px; 
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .map-text {
+    padding-bottom: 40px;  
+    padding-top: 40px;
+  }      
