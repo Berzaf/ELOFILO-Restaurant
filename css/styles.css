@@ -9,5 +9,9 @@ body {
   margin: 0;
   padding: 0;
   height: 100%;
+}
+/**********NAV**********/
+.navbar {
+  background-color: rgba(51, 41, 48, 0.356);
 
 }
