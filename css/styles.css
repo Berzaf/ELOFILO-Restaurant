@@ -346,3 +346,7 @@ opacity: 0.5;
     font-size: 45px;
     text-align: center;
   }
+  /**font-icons**/
+  i.fa {
+    font-family: fontawesome !important;
+  }
