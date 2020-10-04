@@ -315,3 +315,13 @@ opacity: 0.5;
     outline: none
     
     }    
+  .drink-btn:hover {
+    color: rgb(207, 129, 25);
+    background: white;
+    border: black;
+    outline: none;
+    }
+    .fas {
+    font-size: 40px;
+    }
+      
