@@ -111,3 +111,10 @@ padding-bottom: 100px;
   display: flex;
   background:  rgba(0,0,0,0.5);
 }
+.menu-img {
+  min-height: 100vh;
+  background:url(../img/Fish.jpg)center/cover;
+  flex: 0 0 70%;
+  clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0 50%);
+
+}
