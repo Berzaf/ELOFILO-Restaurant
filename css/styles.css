@@ -222,3 +222,10 @@ opacity: 0.5;
   outline: none
 
 }
+
+.food-btn:hover {
+  color: rgb(207, 129, 25);
+  background: white;
+  border: black;
+  outline: none;
+}
