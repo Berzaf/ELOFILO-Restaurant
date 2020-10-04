@@ -99,3 +99,9 @@ padding-bottom: 100px;
   line-height: 2.5;
   text-align: justify;
 }
+
+.aboutus-icon:hover .fas {
+  color: rgb(221, 83, 19);
+  transform: translateY(-15px)
+  
+}
